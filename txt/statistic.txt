@@ -1,0 +1,14 @@
+原始数据文件：char-freq.csv
+汉字及字数文件:unicode.txt
+非汉字及组字式文件:no_unicode.txt
+正字化数据文件，包括正字，狭义异体字对应的正字以及广义异体字:std.txt
+异体字数据文件:variant.txt
+异体字与正字对应文件:replaced.txt
+最终结果文件:final_data.txt
+最终结果详细信息:detail_final_data.txt
+字数及字表节点信息：
+汉字总数:205857668.0
+非unicode字符及組字式字数:942907
+二级字表节点:4281,std,渥,677
+一级字表节点:9118,mul_vt,𡂠,46
+
