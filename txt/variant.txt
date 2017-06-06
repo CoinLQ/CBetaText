@@ -1,3 +1,4 @@
+char,frequency,type,std_chars
 麁,17720,2,麤
 葢,15312,2,蓋
 羣,14297,2,群,2,群
