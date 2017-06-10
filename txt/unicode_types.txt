@@ -1,3 +1,4 @@
+type,char,char_freq
 std,不,3294540
 std,無,2707958
 std,一,2508999

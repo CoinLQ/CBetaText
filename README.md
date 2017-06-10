@@ -38,8 +38,8 @@ https://github.com/DILA-edu/cbeta-metadata
 5. 根据variants.txt，将unicode.txt中所有的狭义异体字替换为正字，广义异体字则保留不变。
 6. 针对替换后的字频文件，将相同的文字进行合并，合并结果为final_char_freq.txt和detail_final_char_freq.txt。其中，detail_final_char_freq.txt记录了合并之前的字频。
 7. 针对合并后的文件，按照《通用汉字规范表》一、二级字表提供的算法，计算得到大藏经一二级字表。
-   * 一级字表节点：4170,std,嚲,740
-   * 二级字表节点：8451,std,妮,61
+   * 一级字表节点:8632,渕,36
+   * 二级字表节点:4176,魍,657
 
 
 
